@@ -1,0 +1,23 @@
+1. What is Java?
+Java is the high-level, object-oriented, robust, secure programming language, platform-independent, high performance, Multithreaded, and portable programming language. It was developed by James Gosling in June 1991. It can also be known as the platform as it provides its own JRE and API.
+
+2. List the features of Java Programming language.
+There are the following features in Java Programming Language.
+
+Simple: Java is easy to learn. The syntax of Java is based on C++ which makes easier to write the program in it.
+
+Object-Oriented: Java follows the object-oriented paradigm which allows us to maintain our code as the combination of different type of objects that incorporates both data and behavior.
+
+Portable: Java supports read-once-write-anywhere approach. We can execute the Java program on every machine. Java program (.java) is converted to bytecode (.class) which can be easily run on every machine.
+
+3. List the features of Java Programming language.
+There are the following features in Java Programming Language.
+
+Simple: Java is easy to learn. The syntax of Java is based on C++ which makes easier to write the program in it.
+
+Object-Oriented: Java follows the object-oriented paradigm which allows us to maintain our code as the combination of different type of objects that incorporates both data and behavior.
+
+Portable: Java supports read-once-write-anywhere approach. We can execute the Java program on every machine. Java program (.java) is converted to bytecode (.class) which can be easily run on every machine.
+
+4. What is JIT compiler?
+Just-In-Time(JIT) compiler: It is used to improve the performance. JIT compiles parts of the bytecode that have similar functionality at the same time, and hence reduces the amount of time needed for compilation. Here the term “compiler” refers to a translator from the instruction set of a Java virtual machine (JVM) to the instruction set of a specific CPU.
